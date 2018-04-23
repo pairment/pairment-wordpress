@@ -90,7 +90,7 @@ function pairment_footer() {
       (function(w,d,t,u,n,s,e){w["A11yObject"]=n;w[n]=w[n]||function(){
       (w[n].q=w[n].q||[]).push(arguments);};s=d.createElement(t);
       e=d.getElementsByTagName(t)[0];s.async=1;s.src=u;e.parentNode.insertBefore(s,e);
-    })(window,document,"script","//localhost:3000/install/v1/'. get_option('pairment_public_id') .'.js");
+    })(window,document,"script","//cdn.pairment.com/install/v1/'. get_option('pairment_public_id') .'.js");
 </script>';
 }
 
